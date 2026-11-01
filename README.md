@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/hxfuxyy/InfinityX-XiaomiPad5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-infinityx-xiaomipad5-dark.svg"><img src="assets/project-infinityx-xiaomipad5-light.svg" width="49%" alt="InfinityX-XiaomiPad5"></picture></a>&nbsp;<a href="https://github.com/hxfuxyy/ZetaCard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zetacard-dark.svg"><img src="assets/project-zetacard-light.svg" width="49%" alt="ZetaCard"></picture></a>
-
-<a href="https://github.com/hxfuxyy/ios-macan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ios-macan-dark.svg"><img src="assets/project-ios-macan-light.svg" width="49%" alt="ios-macan"></picture></a>&nbsp;<a href="https://github.com/hxfuxyy/inf-patches"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-inf-patches-dark.svg"><img src="assets/project-inf-patches-light.svg" width="49%" alt="inf-patches"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

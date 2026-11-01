@@ -1,0 +1,295 @@
+{
+ "key": "e85e50ad",
+ "stars": 19,
+ "contributions": 144,
+ "repos": 18,
+ "followers": 3,
+ "languages": [
+  [
+   "C",
+   20192349
+  ],
+  [
+   "Python",
+   7157286
+  ],
+  [
+   "Assembly",
+   478387
+  ],
+  [
+   "C++",
+   329174
+  ],
+  [
+   "Objective-C",
+   82590
+  ],
+  [
+   "Pawn",
+   67859
+  ],
+  [
+   "HTML",
+   62642
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 22,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "InfinityX-XiaomiPad5",
+   "url": "https://github.com/hxfuxyy/InfinityX-XiaomiPad5",
+   "text": "",
+   "fork": false,
+   "stars": 12,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ZetaCard",
+   "url": "https://github.com/hxfuxyy/ZetaCard",
+   "text": "W.I.P Original Material 3 LSPosed module for custom Google Wallet card artwork",
+   "fork": false,
+   "stars": 5,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "ios-macan",
+   "url": "https://github.com/hxfuxyy/ios-macan",
+   "text": "XNU + iOS 16.5 userland on OnePlus 15R / OnePlus Ace 6T (macan/macanc, SM8845)",
+   "fork": false,
+   "stars": 2,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "k2",
+   "url": "https://github.com/hxfuxyy/k2",
+   "text": "kernel",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "spoti.pw",
+   "url": "https://github.com/hxfuxyy/spoti.pw",
+   "text": "Liquid Glass UI for the Spotify iOS app, no jailbreak",
+   "fork": true,
+   "stars": 0,
+   "language": "Objective-C",
+   "topics": []
+  },
+  {
+   "name": "mond",
+   "url": "https://github.com/hxfuxyy/mond",
+   "text": "Edit MobileGestalt on iOS 27.0 beta 1 - 4!",
+   "fork": true,
+   "stars": 0,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "Nugget",
+   "url": "https://github.com/hxfuxyy/Nugget",
+   "text": "Unlock the fullest potential of your device",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "bio",
+   "url": "https://github.com/hxfuxyy/bio",
+   "text": "trying to learn html 🙏",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "hxfuxyy",
+   "url": "https://github.com/hxfuxyy/hxfuxyy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "crave-build-script",
+   "url": "https://github.com/hxfuxyy/crave-build-script",
+   "text": "Build script for Crave build system",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "inf-patches",
+   "url": "https://github.com/hxfuxyy/inf-patches",
+   "text": "Build patches for ProjectInfinity-X (Android 16) on Xiaomi Pad 5 (nabu)",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Port-Windows-11-Xiaomi-Pad-5",
+   "url": "https://github.com/hxfuxyy/Port-Windows-11-Xiaomi-Pad-5",
+   "text": "Windows installation guide for Xiaomi Pad 5",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "eeveespotifyreborn",
+   "url": "https://github.com/hxfuxyy/eeveespotifyreborn",
+   "text": "A tweak to enhance Spotify experience",
+   "fork": true,
+   "stars": 0,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "ytmusicultimate",
+   "url": "https://github.com/hxfuxyy/ytmusicultimate",
+   "text": "The best tweak for YouTube Music iOS.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "android_device_xiaomi_nabu",
+   "url": "https://github.com/hxfuxyy/android_device_xiaomi_nabu",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_sm8150",
+   "url": "https://github.com/hxfuxyy/android_kernel_xiaomi_sm8150",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Auto-Installer-Forge",
+   "url": "https://github.com/hxfuxyy/Auto-Installer-Forge",
+   "text": "Automated tool for processing payload.bin from recovery ROMs, converting it into ready-to-flash packages for easy Fastboot or Recovery flashing using my custom scripts.",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "packages_apps_Updater",
+   "url": "https://github.com/hxfuxyy/packages_apps_Updater",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ]
+}
