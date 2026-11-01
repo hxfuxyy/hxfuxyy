@@ -1,60 +1,25 @@
-```
-██╗  ██╗██╗  ██╗███████╗██╗   ██╗██╗  ██╗██╗   ██╗██╗   ██╗
-██║  ██║╚██╗██╔╝██╔════╝██║   ██║╚██╗██╔╝╚██╗ ██╔╝╚██╗ ██╔╝
-███████║ ╚███╔╝ █████╗  ██║   ██║ ╚███╔╝  ╚████╔╝  ╚████╔╝ 
-██╔══██║ ██╔██╗ ██╔══╝  ██║   ██║ ██╔██╗   ╚██╔╝    ╚██╔╝  
-██║  ██║██╔╝ ██╗██║     ╚██████╔╝██╔╝ ██╗   ██║      ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝   
-```
- 
 <div align="center">
- 
-**Android ROM developer · Xiaomi Pad 5 maintainer**
- 
-[![Telegram](https://img.shields.io/badge/Telegram-InfinityX_nabu-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/InfinityXnabu)
-[![GitHub](https://img.shields.io/badge/GitHub-hxfuxyy-181717?style=flat-square&logo=github)](https://github.com/hxfuxyy)
-![Profile Views](https://komarev.com/ghpvc/?username=hxfuxyy&style=flat-square&color=blueviolet&label=views)
- 
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m hxfuxyy"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/hxfuxyy/InfinityX-XiaomiPad5"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-infinityx-xiaomipad5-dark.svg"><img src="assets/project-infinityx-xiaomipad5-light.svg" width="49%" alt="InfinityX-XiaomiPad5"></picture></a>&nbsp;<a href="https://github.com/hxfuxyy/ZetaCard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zetacard-dark.svg"><img src="assets/project-zetacard-light.svg" width="49%" alt="ZetaCard"></picture></a>
+
+<a href="https://github.com/hxfuxyy/ios-macan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ios-macan-dark.svg"><img src="assets/project-ios-macan-light.svg" width="49%" alt="ios-macan"></picture></a>&nbsp;<a href="https://github.com/hxfuxyy/inf-patches"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-inf-patches-dark.svg"><img src="assets/project-inf-patches-light.svg" width="49%" alt="inf-patches"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/hxfuxyy?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=hxfuxyy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
- 
----
- 
-### `$ whoami`
- 
-Low-level Android dev. maintain unofficial **[InfinityX ROM](https://github.com/hxfuxyy/InfinityX-XiaomiPad5)** for the Xiaomi Pad 5 (`nabu`) .
- 
----
- 
-### `$ cat ./stack.txt`
- 
-<div align="center">
- 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
- 
-</div>
- 
----
- 
-### `$ cat ./stats.md`
- 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hxfuxyy&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hxfuxyy&theme=vision_friendly_dark" height="165"/>
-</div>
- 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxfuxyy&theme=vision_friendly_dark"/>
-</div>
- 
----
- 
-<div align="center">
-  <sub>nabu stays alive ⚡</sub>
-</div>
- 
