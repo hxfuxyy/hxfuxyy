@@ -1,6 +1,6 @@
 {
- "key": "ff1cda6a",
- "stars": 21,
+ "key": "71453366",
+ "stars": 23,
  "contributions": 151,
  "repos": 19,
  "followers": 3,
@@ -151,7 +151,7 @@
    "url": "https://github.com/hxfuxyy/ZetaCard",
    "text": "Customize Google Wallet card artwork with a modern Material 3 LSPosed module for Android.",
    "fork": false,
-   "stars": 5,
+   "stars": 7,
    "language": "Kotlin",
    "topics": [
     "android",
