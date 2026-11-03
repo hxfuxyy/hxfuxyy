@@ -21,17 +21,17 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "Android ROM developer & low-level enthusiast.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Ukraine"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "C · Kotlin · Python"
       }
     ]
   },
@@ -40,15 +40,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Low-level Android dev"
       },
       {
-        "icon": "code",
-        "label": "Mostly frontend"
+        "icon": "terminal",
+        "label": "Kernel, ROMs & LSPosed modules"
       },
       {
         "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Into Material Design & clean UX"
       }
     ]
   },
@@ -59,12 +59,12 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:cplusplus",
+            "label": "C / C++"
           },
           {
             "icon": "brand:python",
@@ -80,8 +80,8 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "terminal",
+            "label": "Linux / Bash"
           },
           {
             "icon": "brand:githubactions",
@@ -92,9 +92,19 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
-    "overrides": {},
+    "source": "manual",
+    "repos": [
+      "ZetaCard",
+      "InfinityX-XiaomiPad5"
+    ],
+    "overrides": {
+      "ZetaCard": {
+        "text": "Material 3 LSPosed module to customize Google Wallet card artwork."
+      },
+      "InfinityX-XiaomiPad5": {
+        "text": "Unofficial InfinityX ROM for Xiaomi Pad 5 (nabu)."
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -119,15 +129,7 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://t.me/InfinityXnabu"
       }
     ],
     "variant": "chip",
@@ -137,9 +139,9 @@
   "buttons": {
     "items": [
       {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
+        "icon": "deployed_code",
+        "label": "ZetaCard",
+        "url": "https://github.com/hxfuxyy/ZetaCard",
         "style": "filled"
       },
       {
