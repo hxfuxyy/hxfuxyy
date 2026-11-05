@@ -1,6 +1,6 @@
 {
- "key": "6a108ec2",
- "stars": 27,
+ "key": "76d4d022",
+ "stars": 28,
  "contributions": 151,
  "repos": 19,
  "followers": 3,
@@ -146,20 +146,11 @@
  "pins": [],
  "all": [
   {
-   "name": "InfinityX-XiaomiPad5",
-   "url": "https://github.com/hxfuxyy/InfinityX-XiaomiPad5",
-   "text": "",
-   "fork": false,
-   "stars": 12,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "ZetaCard",
    "url": "https://github.com/hxfuxyy/ZetaCard",
    "text": "Customize Google Wallet card artwork with a modern Material 3 LSPosed module for Android.",
    "fork": false,
-   "stars": 11,
+   "stars": 12,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -171,6 +162,15 @@
     "root",
     "xposed-module"
    ]
+  },
+  {
+   "name": "InfinityX-XiaomiPad5",
+   "url": "https://github.com/hxfuxyy/InfinityX-XiaomiPad5",
+   "text": "",
+   "fork": false,
+   "stars": 12,
+   "language": null,
+   "topics": []
   },
   {
    "name": "ios-macan",
